@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
+[About](about.md).
 
 There should be whitespace between paragraphs.
 
