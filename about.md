@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ### this is about page！
