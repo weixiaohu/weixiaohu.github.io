@@ -2,20 +2,16 @@
 layout: default
 ---
 
-[About](about.md).
+# [](#header-1)瞎记
 
-There should be whitespace between paragraphs.
+每天百度的查的.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## [](#header-2)linux命令删除文件夹
 
-# [](#header-1)Header 1
+···
+rm -ef 文件夹
+···
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+说明
+> -ef 强势迭代删除所有子目录&不提示
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
