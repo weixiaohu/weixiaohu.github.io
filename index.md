@@ -8,8 +8,8 @@ layout: default
 
 ## [](#header-2)linux命令删除文件夹
 
-```
-rm -ef 文件夹
+```shell
+rm -rf 文件夹
 ```
 
 说明
