@@ -3,4 +3,6 @@ title: Hello world
 description: 从今天开始做一个有文化的人
 lang: zh
 show_sidebar: false
-show_follow_me: false
+github:
+  show: falss
+
