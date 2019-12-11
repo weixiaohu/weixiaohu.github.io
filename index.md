@@ -4,7 +4,7 @@ layout: default
 
 # 瞎记
 每天百度的查的.
-## linux命令删除文件夹
+## linux 命令删除文件夹
 
 ```shell
 rm -rf 文件夹
