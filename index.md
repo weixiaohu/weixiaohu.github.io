@@ -2,13 +2,11 @@
 layout: default
 ---
 
-{% include posts.html %}
-
-# [](#header-1)瞎记
+# 瞎记
 
 每天百度的查的.
 
-## [](#header-2)linux命令删除文件夹
+## linux命令删除文件夹
 
 ```shell
 rm -rf 文件夹
