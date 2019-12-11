@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en" }}">
 <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,7 +24,7 @@
         {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
-        {% if site.github.is_user_page %}
+        {% if site.github.is_user_page && show_follow_me %}
         <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
     </div>
