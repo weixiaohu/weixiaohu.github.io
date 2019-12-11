@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Hello world
 description: 从今天开始做一个有文化的人
+lang: zh-CH
+show_sidebar: false
