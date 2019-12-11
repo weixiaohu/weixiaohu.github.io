@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[瞎记](./_posts/2019-05-07-demo.md).
+
 # 瞎记
 每天百度的查的.
 ## linux 命令删除文件夹
