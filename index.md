@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include posts.html %}
+
 # [](#header-1)瞎记
 
 每天百度的查的.
