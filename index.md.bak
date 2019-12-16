@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # 瞎记
 每天百度的查的.
 ## linux 命令删除文件夹
